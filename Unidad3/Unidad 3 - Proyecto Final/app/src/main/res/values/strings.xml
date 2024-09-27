@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">30days</string>
+
+    <!-- Consejo 1 al 10 -->
+    <string name="title1">Empieza con una sonrisa</string>
+    <string name="description1">Un buen día comienza con una actitud positiva. Sonríe y afronta el día con optimismo.</string>
+    <string name="day1">Día 1</string>
+
+    <string name="title2">Pequeñas metas</string>
+    <string name="description2">Establece pequeñas metas diarias que te ayuden a alcanzar grandes logros.</string>
+    <string name="day2">Día 2</string>
+
+    <string name="title3">Agradece lo que tienes</string>
+    <string name="description3">Tomarte un momento para agradecer lo que tienes te dará una perspectiva más positiva.</string>
+    <string name="day3">Día 3</string>
+
+    <string name="title4">Respira profundo</string>
+    <string name="description4">En momentos de estrés, una respiración profunda puede ayudarte a calmarte y recargar energía.</string>
+    <string name="day4">Día 4</string>
+
+    <string name="title5">Organiza tu espacio</string>
+    <string name="description5">Un entorno limpio y organizado promueve la claridad mental y la productividad.</string>
+    <string name="day5">Día 5</string>
+
+    <string name="title6">Dedica tiempo a ti mismo</string>
+    <string name="description6">Es importante dedicar tiempo para relajarte y cuidar tu bienestar emocional.</string>
+    <string name="day6">Día 6</string>
+
+    <string name="title7">Aprende algo nuevo</string>
+    <string name="description7">Cada día es una oportunidad para adquirir un nuevo conocimiento o habilidad.</string>
+    <string name="day7">Día 7</string>
+
+    <string name="title8">Escucha a los demás</string>
+    <string name="description8">Prestar atención genuina a lo que otros tienen que decir puede fortalecer tus relaciones.</string>
+    <string name="day8">Día 8</string>
+
+    <string name="title9">Sé constante</string>
+    <string name="description9">El éxito se logra a través de la constancia y la perseverancia, no por la rapidez.</string>
+    <string name="day9">Día 9</string>
+
+    <string name="title10">Confía en ti</string>
+    <string name="description10">La confianza en ti mismo es el primer paso para superar cualquier reto que enfrentes.</string>
+    <string name="day10">Día 10</string>
+
+    <!-- Consejo 11 al 20 -->
+    <string name="title11">Cuida tu cuerpo</string>
+    <string name="description11">El bienestar físico es clave para el bienestar emocional. Muévete y come saludablemente.</string>
+    <string name="day11">Día 11</string>
+
+    <string name="title12">Desconéctate</string>
+    <string name="description12">A veces es necesario alejarse de las pantallas y disfrutar del momento presente.</string>
+    <string name="day12">Día 12</string>
+
+    <string name="title13">Sé amable</string>
+    <string name="description13">Un pequeño acto de amabilidad puede hacer una gran diferencia en el día de alguien.</string>
+    <string name="day13">Día 13</string>
+
+    <string name="title14">Acepta los errores</string>
+    <string name="description14">Los errores son parte del proceso de aprendizaje. Acepta y aprende de ellos.</string>
+    <string name="day14">Día 14</string>
+
+    <string name="title15">El poder de la naturaleza</string>
+    <string name="description15">Pasa tiempo al aire libre, la naturaleza tiene un efecto restaurador en tu mente y cuerpo.</string>
+    <string name="day15">Día 15</string>
+
+    <string name="title16">Escucha música</string>
+    <string name="description16">La música puede cambiar tu estado de ánimo en un instante. Escoge melodías que te inspiren.</string>
+    <string name="day16">Día 16</string>
+
+    <string name="title17">Planifica con anticipación</string>
+    <string name="description17">Tener una visión clara del día puede ayudarte a mantenerte enfocado y productivo.</string>
+    <string name="day17">Día 17</string>
+
+    <string name="title18">Dedica tiempo a tus pasiones</string>
+    <string name="description18">Tus hobbies y pasiones son esenciales para tu felicidad y equilibrio emocional.</string>
+    <string name="day18">Día 18</string>
+
+    <string name="title19">Ayuda a alguien</string>
+    <string name="description19">El altruismo no solo beneficia a los demás, también te llena de satisfacción.</string>
+    <string name="day19">Día 19</string>
+
+    <string name="title20">Despierta temprano</string>
+    <string name="description20">Comenzar el día temprano te da tiempo extra para planificar y aprovechar al máximo cada jornada.</string>
+    <string name="day20">Día 20</string>
+
+    <!-- Consejo 21 al 30 -->
+    <string name="title21">Medita</string>
+    <string name="description21">La meditación puede ayudarte a calmar tu mente y aumentar tu concentración.</string>
+    <string name="day21">Día 21</string>
+
+    <string name="title22">Aprecia los momentos simples</string>
+    <string name="description22">Los pequeños momentos de felicidad son los que hacen la vida especial. No los subestimes.</string>
+    <string name="day22">Día 22</string>
+
+    <string name="title23">Toma agua</string>
+    <string name="description23">Mantenerte hidratado es esencial para que tu cuerpo funcione correctamente.</string>
+    <string name="day23">Día 23</string>
+
+    <string name="title24">Rodéate de personas positivas</string>
+    <string name="description24">Las personas que te rodean influyen en tu energía. Elige bien a tu círculo cercano.</string>
+    <string name="day24">Día 24</string>
+
+    <string name="title25">Desafía tus límites</string>
+    <string name="description25">Cada día intenta salir de tu zona de confort y crecer más allá de lo que creías posible.</string>
+    <string name="day25">Día 25</string>
+
+    <string name="title26">Cuida tu mente</string>
+    <string name="description26">Alimenta tu mente con pensamientos positivos y hábitos saludables.</string>
+    <string name="day26">Día 26</string>
+
+    <string name="title27">Perdona rápido</string>
+    <string name="description27">No cargues con resentimientos. El perdón te libera de cargas innecesarias.</string>
+    <string name="day27">Día 27</string>
+
+    <string name="title28">Disfruta del silencio</string>
+    <string name="description28">Un momento de silencio puede ser revitalizador para tu mente y espíritu.</string>
+    <string name="day28">Día 28</string>
+
+    <string name="title29">Sé agradecido por los desafíos</string>
+    <string name="description29">Los desafíos te enseñan y te hacen más fuerte. Aprecia cada lección que te dejan.</string>
+    <string name="day29">Día 29</string>
+
+    <string name="title30">Visualiza tu éxito</string>
+    <string name="description30">La visualización positiva es una herramienta poderosa para alcanzar tus metas.</string>
+    <string name="day30">Día 30</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+
+    <string name="TGeorgesSeurat">Isla</string>
+    <string name="George">Georges Seura (1884)</string>
+
+    <string name="TSelfPortrait">Retrato</string>
+    <string name="SelfPortrait">Vincent van Gogh (1889)</string>
+
+    <string name="TEdvardMunch">El Grito</string>
+    <string name="EdvardMunch">Edvard Munch (1893)</string>
+
+    <string name="TEugeneDelacroix">Retrato N°1</string>
+    <string name="EugeneDelacroix">Eugene Delacroix (1837)</string>
+
+    <string name="TJohannes">Retrato de Mujer</string>
+    <string name="JohannesVermeer">Johannes Vermeer (1665)</string>
+
+    <string name="TJeanAntoine">Shop</string>
+    <string name="JeanAntoine">Jean-Antoine Watteau (1720)</string>
+
+</resources>
